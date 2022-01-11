@@ -1,7 +1,6 @@
 import pyautogui
 import keyboard
 import time
-from PIL import Image, ImageTk
 import tkinter as tk
 from tkinter.filedialog import askopenfile
 
@@ -14,13 +13,6 @@ def main():
     root.title('AutoTyper')
     root.configure(bg='#2f3136')
     root.resizable(width=False, height=False)
-
-    # Logo
-    img = Image.open('./icon.png')
-    img = ImageTk.PhotoImage(img)
-    logo = tk.Label(image=img)
-    logo.config(bg='#2f3136')
-    logo.grid(row=0, column=3, pady=15)
 
     # Instruction for detection
     inst_detect = tk.Label(root, text='Click the button below')
@@ -89,7 +81,7 @@ def main():
     drop_txt.set('2')
     interval_entry = tk.ttk.Entry(root, textvariable=drop_txt)
     
-    drop = tk.OptionMenu(root, drop_txt, '0', '1', '2', '3', '4', '5', '6', '7', '8')
+    drop = tk.OptionMenu(root, drop_txt, '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15')
     drop.config(font=('Arial', 15), fg='#b9bbbe', bg='#3a4c48')
     drop.grid(row=9, column=3, pady=10)
 
