@@ -1,0 +1,20 @@
+kc t=b s=Asobi Asobase
+kc t=b s=Beastars
+kc t=b s=Dorohedoro
+kc t=b s=Eyeshield 21
+kc t=b s=Fullmetal Alchemist
+kc t=b s=Grand Blue
+kc t=b s=Ishuzoku Reviewers
+kc t=b s=JoJo
+kc t=b s=Jujutsu Kaisen
+kc t=b s=My Teen Romantic Comedy SNAFU
+kc t=b s=Samurai Champloo
+kc t=b s=Persona
+kc t=b s=Perfect Blue
+kc t=b s=Prison School
+kc t=b s=Spy x Family
+kc t=b s=Tower of God
+kc t=b s=Vinland Saga
+kc t=b s=Soul Eater
+kc t=b s=The Flowers of Evil
+kc t=b s=Cowboy Bebop
